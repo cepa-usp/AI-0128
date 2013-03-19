@@ -1,0 +1,4 @@
+h1. Linha do tempo:
+h2. período histórico, pensadores e pensamentos dominantes
+
+Nesta atividade interativa o usuário deve organizar corretamente os momentos históricos, os pensamentos dominantes em cada época e os pensadores, ou expoentes, que defenderam essas ideias, na linha do tempo. 
